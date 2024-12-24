@@ -25,6 +25,8 @@ Flash USDTs are transferable and withdrawable. 365 Days valid flash usdts. It ca
 <img src="https://i.ibb.co/FDGbJfY/usdtflasherplans.png" alt="usdt flash plans">
 </a>
 
+[![Watch the USDT Flash Sender](https://i.ytimg.com/vi/qvVXHOaWwr0/hqdefault.jpg)](https://www.youtube.com/watch?v=qvVXHOaWwr0&feature=youtu.be)
+
 
 ## Key Features of Flash USDT Sender
 __Multi-Chain Support__: Effortlessly send flash USDT across multiple blockchain networks for versatile usage. \
